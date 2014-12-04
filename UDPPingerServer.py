@@ -1,8 +1,8 @@
-# - - - - - - - - - - - - - - - - - - - - - -
+# - - - - - - - - - - - - - - - - - - - - - - -
 #   Author: Megan Volpano
 #   Date:   11/10/14
 #   File:   UDPPingerServer.py
-# - - - - - - - - - - - - - - - - - - - - - -
+# - - - - - - - - - - - - - - - - - - - - - - - 
 
 # Code from Jim Kurose's Socket Programming Assignment 2: UDP Pinger
 
