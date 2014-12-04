@@ -6,6 +6,8 @@
 
 # Code from Jim Kurose's Socket Programming Assignment 2: UDP Pinger
 
+# Must have this server running before you can run the UDP Pinger Client code
+
 import random
 from socket import *
 
