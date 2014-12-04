@@ -1,5 +1,5 @@
 # - - - - - - - - - - - - - - - - - - - - - -
-#   Author: Megan Volpano & Sydney Nguyen
+#   Author: Megan Volpano
 #   Date:   11/10/14
 #   File:   UDPPingerClient.py
 # - - - - - - - - - - - - - - - - - - - - - -
